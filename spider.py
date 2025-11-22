@@ -22,7 +22,7 @@ HEADERS = {
     "accept-language": "zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6",
     "connection": "keep-alive",
     # 注意：cookie 可能会过期！建议定期更新或使用 Session 自动管理
-    "cookie": "AQSIQSESSID=1bm2k99nut01qfsgsccvaa3sq5",
+    "cookie": "",
     "host": "www.aqsiqauto.com",  # ⚠️ 注意：requests 会自动设置 Host，一般不需要手动写
     "sec-ch-ua": '"Chromium";v="142", "Microsoft Edge";v="142", "Not_A Brand";v="99"',
     "sec-ch-ua-mobile": "?0",
